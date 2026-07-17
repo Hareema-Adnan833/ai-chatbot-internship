@@ -1,3 +1,6 @@
+## 🚀 Live Demo
+Try the deployed app here: **https://travelplanneragentgit-thpsfs29pshxea5awmwxjd.streamlit.app/**
+
 # 🤖 Database AI Chatbot
 
 ## 📌 Project Overview
